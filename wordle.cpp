@@ -15,6 +15,7 @@ int main() {
         "xerox",
         "xylem",
         "noone",
+        "index",
         // TODO: 請協助 PR 以擴充題庫
     };
 
