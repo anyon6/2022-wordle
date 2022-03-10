@@ -15,6 +15,9 @@ int main() {
         "xerox",
         "xylem",
         "noone",
+        "under",
+        "range",
+        "touch",
         // TODO: 請協助 PR 以擴充題庫
     };
 
